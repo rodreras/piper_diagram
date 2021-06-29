@@ -1,1 +1,0 @@
-web: gunicorn geoapp_hidro.py:app --log-file -
