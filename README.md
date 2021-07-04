@@ -1,5 +1,7 @@
 # GeoApps: Hydrogeochemistry
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rodreras/piper_diagram/main/geoapp_hidro.py)
+
 #### Powered by: Rodrigo Brust
 
 ![casa_2](https://user-images.githubusercontent.com/53950449/124371250-4a7df900-dc56-11eb-88ad-c02ab957b864.png)
