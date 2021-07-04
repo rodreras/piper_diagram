@@ -278,5 +278,7 @@ st.sidebar.markdown('''
 
 [Stiff Diagrams - Wikipedia](https://en.wikipedia.org/wiki/Stiff_diagram)
 
-[Hatarilabs - Saul Montoya](https://hatarilabs.com/ih-en/how-to-make-a-piper-diagram-in-python-tutorial)
+[Piper Diagram (Hatarilabs - Saul Montoya)](https://hatarilabs.com/ih-en/how-to-make-a-piper-diagram-in-python-tutorial)
+
+[Stiff Diagram (Hatarilabs - Saul Montoya)](https://hatarilabs.com/ih-en/how-to-do-a-georeferenced-stiff-diagram-with-python-3-and-qgis-3-tutorial)
 ''')
