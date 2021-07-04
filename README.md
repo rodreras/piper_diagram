@@ -49,7 +49,7 @@ I used a lot of sources. All the code is avaiable at my github account, and the 
 
 [Stiff Diagram (Hatarilabs - Saul Montoya)](https://hatarilabs.com/ih-en/how-to-do-a-georeferenced-stiff-diagram-with-python-3-and-qgis-3-tutorial)
 
-##Bugs 
+## Bugs 
 
 If you see any problem with the geoapp, do please get in touch. You can use github or reach me by the links inside the plataform.
 
