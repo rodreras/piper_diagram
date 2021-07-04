@@ -17,7 +17,7 @@ This GeoApps is very simple to use. The main objective is to make easier plottin
 ## Using 
 
 
-The usage is very simple. All you have to do is upload a `XSL`or `XSLX` table, and have the following columns: 
+The usage is very simple. All you have to do is upload a `XSL` file, and have the following columns: 
 
 - station
 - HCO3	
