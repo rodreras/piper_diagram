@@ -63,7 +63,7 @@ with the columns defined just like the table below:
  ''')
 
 #tabela de exemplo
-table = pd.read_excel('exemple.xls')
+table = pd.read_excel('exemple.xlsx')
 st.dataframe(table)
 
 uploaded_file = st.file_uploader("Choose a file")
@@ -261,7 +261,8 @@ geoscience community with the support of the open source programs.
 st.sidebar.title('About Me')
 
 st.sidebar.subheader('Hello, folks!')
-st.sidebar.markdown("I'm Rodrigo, a geology student from Brazil,that enjoys to mix Geoscience subject with programming. One of my personal goals now is to develop geoapps that helps a lot of students and geoscientists around the world")
+st.sidebar.markdown(''' I'm Rodrigo, a geology student from Brazil,that enjoys to mix Geoscience subject with programming. 
+                    One of my personal goals now is to develop geoapps that helps a lot of students and geoscientists around the world.''')
 
 st.sidebar.title("Get in Touch")
 st.sidebar.markdown("[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigobrust/)](https://www.linkedin.com/in/rodrigobrust/)")
