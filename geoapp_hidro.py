@@ -59,7 +59,7 @@ option = st.radio('What diagrams would you like??', ['Piper Diagrams','Stiff Dia
 
 #Mostrando o padrão das colunas 
 st.markdown('''
-To use this GeoApp, it is necessary to import a `XLSX` or `XLS` file,
+To use this GeoApp, it is necessary to import a `XLS` file,
 with the columns defined just like the table below:
  ''')
 
