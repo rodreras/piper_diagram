@@ -16,6 +16,7 @@ import numpy as np
 import base64
 import io 
 from PIL import Image
+import xlrd3
 
 #importando folium para integrar com o streamlit
 #from streamlit_folium import folium_static
