@@ -23,7 +23,7 @@ from PIL import Image
 
 #importando as funções 
 from funciones import *
-from variables import *
+
 
 # configurando a página para modo wide
 st.set_page_config(layout="wide", page_title = 'Piper Diagram' )
